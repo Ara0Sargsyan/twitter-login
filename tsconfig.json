@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/api/auth/[…nextauth].ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/api/twitter/user.js", "tailwind.config.js", "postcss.config.js"],
   "exclude": ["node_modules"]
 }
